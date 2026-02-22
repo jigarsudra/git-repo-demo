@@ -4,3 +4,9 @@ line 3
 line 4
 
 branch file edited
+
+
+line 7
+line 8
+
+main branch edited
